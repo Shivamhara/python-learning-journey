@@ -1,0 +1,36 @@
+Date: Day 1
+Topics: print, input, variables, type(), comments
+What I built: Profile printer program
+What was easy: printing output
+What confused me:nothing is confused
+How I solved it:solve quickly
+Tomorrow: Data Types + Operators
+
+Date: Day 2
+Topics: int, float, str, bool, type conversion, 
+        arithmetic operators, comparison, logical operators
+What I built: Simple Calculator
+What was easy: every thing is was trick to mind
+What confused me: nothing confuse
+How I solved it: little pressure.
+Tomorrow: Strings Deep Dive
+
+Date: Day 3
+Topics: String indexing, slicing, string methods,
+        f-string formatting, len(), split()
+What I built: Sentence Analyzer
+What was easy:indexing,slicing,
+What confused me:confused it 
+How I solved it:hard to solve 
+Tomorrow: Conditions (if/elif/else)
+
+Date: Day 4 date:-28/02/2026
+Topics: if, elif, else, nested conditions,
+        truthy/falsy values, indentation rules
+What I built: Grade Calculator + Login System
+What was easy:simple program of if else
+What confused me:i am confused in writting a conditions.
+How I solved it:it is hard.but i am solve it.
+Tomorrow: Loops (for + while)
+
+
