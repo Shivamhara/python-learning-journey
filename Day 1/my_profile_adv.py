@@ -1,0 +1,13 @@
+name = input("What is your name?: ")
+age = int(input("What is your age?: "))
+city = input("Which city are you from?: ")
+fav_subject = input("Which is your favourite subject?: ")
+
+print("=" * 25)
+print("      MY PROFILE")
+print("=" * 25)
+print(f"Name        : {name}")
+print(f"Age         : {age}")
+print(f"City        : {city}")
+print(f"Subject     : {fav_subject}")
+print("=" * 25)
